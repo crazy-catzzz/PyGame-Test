@@ -6,6 +6,7 @@ From source:
 - Install python 3.9,
 - Install pygame (`pip install pygame`),
 - Open a terminal in the source folder and type `python game.py`.
+
 From binary:
 - Install python 3.9,
 - Exrtact `Test Game.zip`,
